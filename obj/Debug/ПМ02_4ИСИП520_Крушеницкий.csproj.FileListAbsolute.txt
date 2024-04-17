@@ -1,0 +1,15 @@
+C:\Users\208573\source\repos\ПМ02_4ИСИП520_Крушеницкий\ПМ02_4ИСИП520_Крушеницкий\bin\Debug\ПМ02_4ИСИП520_Крушеницкий.exe.config
+C:\Users\208573\source\repos\ПМ02_4ИСИП520_Крушеницкий\ПМ02_4ИСИП520_Крушеницкий\bin\Debug\ПМ02_4ИСИП520_Крушеницкий.exe
+C:\Users\208573\source\repos\ПМ02_4ИСИП520_Крушеницкий\ПМ02_4ИСИП520_Крушеницкий\bin\Debug\ПМ02_4ИСИП520_Крушеницкий.pdb
+C:\Users\208573\source\repos\ПМ02_4ИСИП520_Крушеницкий\ПМ02_4ИСИП520_Крушеницкий\obj\Debug\ПМ02_4ИСИП520_Крушеницкий.csproj.AssemblyReference.cache
+C:\Users\208573\source\repos\ПМ02_4ИСИП520_Крушеницкий\ПМ02_4ИСИП520_Крушеницкий\obj\Debug\MainWindow.g.cs
+C:\Users\208573\source\repos\ПМ02_4ИСИП520_Крушеницкий\ПМ02_4ИСИП520_Крушеницкий\obj\Debug\App.g.cs
+C:\Users\208573\source\repos\ПМ02_4ИСИП520_Крушеницкий\ПМ02_4ИСИП520_Крушеницкий\obj\Debug\ПМ02_4ИСИП520_Крушеницкий_MarkupCompile.cache
+C:\Users\208573\source\repos\ПМ02_4ИСИП520_Крушеницкий\ПМ02_4ИСИП520_Крушеницкий\obj\Debug\ПМ02_4ИСИП520_Крушеницкий_MarkupCompile.lref
+C:\Users\208573\source\repos\ПМ02_4ИСИП520_Крушеницкий\ПМ02_4ИСИП520_Крушеницкий\obj\Debug\MainWindow.baml
+C:\Users\208573\source\repos\ПМ02_4ИСИП520_Крушеницкий\ПМ02_4ИСИП520_Крушеницкий\obj\Debug\ПМ02_4ИСИП520_Крушеницкий.g.resources
+C:\Users\208573\source\repos\ПМ02_4ИСИП520_Крушеницкий\ПМ02_4ИСИП520_Крушеницкий\obj\Debug\ПМ02_4ИСИП520_Крушеницкий.Properties.Resources.resources
+C:\Users\208573\source\repos\ПМ02_4ИСИП520_Крушеницкий\ПМ02_4ИСИП520_Крушеницкий\obj\Debug\ПМ02_4ИСИП520_Крушеницкий.csproj.GenerateResource.cache
+C:\Users\208573\source\repos\ПМ02_4ИСИП520_Крушеницкий\ПМ02_4ИСИП520_Крушеницкий\obj\Debug\ПМ02_4ИСИП520_Крушеницкий.csproj.CoreCompileInputs.cache
+C:\Users\208573\source\repos\ПМ02_4ИСИП520_Крушеницкий\ПМ02_4ИСИП520_Крушеницкий\obj\Debug\ПМ02_4ИСИП520_Крушеницкий.exe
+C:\Users\208573\source\repos\ПМ02_4ИСИП520_Крушеницкий\ПМ02_4ИСИП520_Крушеницкий\obj\Debug\ПМ02_4ИСИП520_Крушеницкий.pdb

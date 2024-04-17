@@ -1,0 +1,41 @@
+﻿<Window x:Class="ПМ02_4ИСИП520_Крушеницкий.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ПМ02_4ИСИП520_Крушеницкий"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="55"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="160"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Введите вверхние значения таблицы через пробел:" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Right" Width="291" />
+        <TextBox x:Name="txtConsumerDemand" Grid.Row="0" Grid.Column="1" Width="250" Margin="10"/>
+
+        <TextBlock Text="Введите боковые значения таблицы через пробел:" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Right" Width="292" />
+        <TextBox x:Name="txtSupplierSupply" Grid.Row="1" Grid.Column="1" Width="250" Margin="10"/>
+
+        <TextBlock Text="Введите каждое значение внутри таблицы через пробел, а для разеделния строк используйте двоиточие(Без пробела после ':' ):" TextWrapping="Wrap" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Right" Width="291" Margin="0,37" Grid.RowSpan="3"/>
+        <TextBox x:Name="txtCostMatrix" Grid.Row="2" Grid.Column="1" Width="250" />
+
+        <Button VerticalAlignment="Center"  HorizontalAlignment="Right" Content="Запустить программу:" Click="TransportZadacha" Grid.Column="0" Grid.Row="5" Width="144" Height="30"  />
+
+        <Button VerticalAlignment="Center"  HorizontalAlignment="Center" Content="Выгрузка в Excel" Grid.Column="1" Grid.Row="6" Width="250"/>
+
+        <TextBlock Text="Решение:" Grid.Row="4" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <TextBox x:Name="txtSolution" Grid.Row="5" Grid.Column="1" IsReadOnly="True" Width="275" Height="175"/>
+
+    </Grid>
+</Window>
